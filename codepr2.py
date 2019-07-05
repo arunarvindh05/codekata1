@@ -9,4 +9,5 @@ s2 = max(asd)
 for i, c in enumerate(s1):
   if c != s2[i]:
     print(s1[:i])
-print(s1)
+  else:  
+    print(s1)
