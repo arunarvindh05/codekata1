@@ -1,3 +1,3 @@
-a=int(input())
-b=int(input())
-print(a**b)
+arun=int(input())
+arvindh=int(input())
+print(arun**arvindh)
