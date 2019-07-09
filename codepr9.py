@@ -1,2 +1,2 @@
 asd=int(input())
-print("asd")
+print(asd)
