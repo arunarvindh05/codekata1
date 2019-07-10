@@ -1,6 +1,6 @@
 asd = int(input())
 qwe = [ int(x) for x in input().split()]
-asd = len(q)
+asd = len(qwe)
 u = 0
 for i in range(0,asd-2):
     for j in range(i+1, asd-1):
